@@ -1,6 +1,5 @@
-## Preview of CV
-
-![alt text](cv_template.png)
+## Disclaimer
+Code is not yet optimized
 
 ## How to make changes
 
@@ -21,4 +20,6 @@ Install all dependencies
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## Preview of CV
 
+![alt text](cv_template.png)
