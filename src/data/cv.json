@@ -1,0 +1,102 @@
+{
+    "header": {
+        "fornavn": "Fornavn",
+        "etternavn": "Etternavn",
+        "fodselsdato": "01.jan 0000",
+        "yrke": "Din rolle",
+        "telefon": "12345678",
+        "epost": "test@test.test",
+        "adresse": "Kult sted",
+        "linkedIn": {
+            "url": "https://www.linkedin.com/in/brukernavn/",
+            "text": "linkedin.com/in/brukernavn"
+        },
+        "github": {
+            "url": "https://github.com/brukernavn",
+            "text": "github.com/brukernavn"
+        }
+    },
+    "profil": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut tellus mauris. Pellentesque eleifend felis in euismod porta. Proin fermentum blandit justo, non dignissim mauris elementum at.",
+    "erfaring": [
+        {
+            "navn": "Arbeidssted",
+            "tidsperiode": "Tidsperiode",
+            "tittel": "Stillingstittel",
+            "beskrivelser": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut tellus mauris.",
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut tellus mauris.",
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut tellus mauris."
+            ],
+            "lokasjon": "Lokasjon"
+        },
+        {
+            "navn": "Arbeidssted",
+            "tidsperiode": "Tidsperiode",
+            "tittel": "Stillingstittel",
+            "beskrivelser": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut tellus mauris.",
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut tellus mauris.",
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut tellus mauris."
+            ],
+            "lokasjon": "Lokasjon"
+        }
+    ],
+    "utdanning": [
+        {
+            "navn": "Utdanningssted",
+            "tidsperiode": "Tidsperiode",
+            "tittel": "Utdanningstittel",
+            "beskrivelser": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut tellus mauris."
+            ],
+            "lokasjon": "Lokasjon"
+        }
+    ],
+    "sertifiseringer": [
+        {
+            "navn": "Arrangør",
+            "tittel": "Sertifiseringstittel",
+            "tidsperiode": "Tidsperiode",
+            "lokasjon": "Lokasjon",
+            "beskrivelser": [
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut tellus mauris."
+            ],
+            "url": "https://www.google.com"
+        }
+    ],
+    "ferdigheter": [
+        {
+            "navn": "Ferdighet 1"
+        },
+        {
+            "navn": "Ferdighet 2"
+        },
+        {
+            "navn": "Ferdighet 3"
+        },
+        {
+            "navn": "Ferdighet 4"
+        },
+        {
+            "navn": "Ferdighet 5"
+        }
+    ],
+    "egenskaper": [
+        {
+            "navn": "Egenskap 1"
+        },
+        {
+            "navn": "Egenskap 2"
+        },
+        {
+            "navn": "Egenskap 3"
+        },
+        {
+            "navn": "Egenskap 4"
+        },
+        {
+            "navn": "Egenskap 5"
+        }
+    ],
+    "referanser": "Oppgis på forespørsel."
+}

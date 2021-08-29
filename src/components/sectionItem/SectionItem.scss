@@ -1,0 +1,65 @@
+.section-item {
+    display: grid;
+    grid-template-columns: 1fr 2.5fr;
+    margin-bottom: 13px;
+
+    .place {
+        grid-column: 1;
+
+        p {
+            font-size: 10pt;
+        }
+
+        #tidsperiode {
+            font-size: 8pt;
+            margin-top: 10px;
+            margin-bottom: 0;
+        }
+    } 
+
+    .details {
+        grid-column: 2;
+
+        .header {
+            justify-content: space-between;
+            align-items: flex-end;
+
+            h2, a {
+                font-size: 10pt;
+                margin-bottom: 0;
+                font-weight: bold;
+                margin-top: 10px;
+            }
+            
+            .location {
+                display: flex;
+                align-items: flex-end;
+
+                img {
+                    height: 18px;
+                }
+
+                p {
+                    margin-left: 4px;
+                    margin-bottom: 0;
+                    font-size: 10pt;
+                    margin-top: 0;
+                }
+            }
+        }
+
+        ul {
+            margin-bottom: 0;
+            margin-top: 10px;
+            padding-left: 19.5px;
+            
+            li {
+                margin-bottom: 3px;
+            }
+
+            li:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}

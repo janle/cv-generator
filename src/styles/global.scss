@@ -1,0 +1,30 @@
+body {
+    a {
+        color: #000;
+    }
+
+    a:visited {
+        color: #5C527F;
+    }
+
+    a:hover {
+        color: #F7D59C;
+    }
+
+    hr {
+        display: block;
+        height: 1px;
+        border: 0;
+        border-top: 1px solid #C8C6C6;
+        margin: 13px 0;
+        padding: 0;
+    }
+
+    h1 {
+        margin: 13px 52px 6.5px 0;
+        text-transform: uppercase;
+        letter-spacing: 2.5px;
+        font-weight: bold;
+        font-size: 12pt;
+    }
+}
